@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="msgpack-scala_2.9.1-0.6.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/msgpack-scala_2.9.1-0.6.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
